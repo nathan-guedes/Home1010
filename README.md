@@ -1,4 +1,4 @@
 # Home1010
 ao clonar esse repo use <br/>
-$ yarn
+$ yarn <br/>
 $ yarn dev
